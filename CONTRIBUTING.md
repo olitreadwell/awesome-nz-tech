@@ -4,13 +4,29 @@ Thank you for considering contributing to this awesome list! Here are some guide
 
 ## How to Contribute
 
-1. **Check for Duplicates**: Before submitting a new resource, ensure it’s not already listed.
+1. **Check for Duplicates**: Before submitting a new resource, ensure it's not already listed.
 2. **Submit a Pull Request**: Fork the repository, make your changes, and submit a pull request with a clear description.
-3. **Follow the Format**: Ensure your addition follows the existing format and includes:
-   - A title
+3. **Add Resources**:
+   - Add resources to the appropriate JSON file in the `data/` directory
+   - Follow the existing format and structure
+   - Ensure your data is valid JSON and follows our schema
+4. **Follow the Format**: Each entry should include:
+   - A name
    - A short description
-   - A link to the resource
-4. **Be Respectful**: Follow the [Code of Conduct](./CODE_OF_CONDUCT.md) when interacting with others.
+   - A URL
+   - Optional tags
+5. **Be Respectful**: Follow the [Code of Conduct](./CODE_OF_CONDUCT.md) when interacting with others.
+
+## Sample JSON Entry
+
+```json
+{
+  "name": "Your Resource Name",
+  "description": "A short description of the resource",
+  "url": "https://example.com",
+  "tags": ["relevant", "tags"]
+}
+```
 
 ## Suggestions for Contributions
 

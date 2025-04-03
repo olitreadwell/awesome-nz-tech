@@ -1,0 +1,187 @@
+{
+    "categories": {
+        "startups": {
+            "name": "Startups",
+            "description": "Innovative tech startups based in New Zealand",
+            "entries": [
+                {
+                    "name": "Xero",
+                    "description": "Beautiful cloud-based accounting software",
+                    "url": "https://www.xero.com/",
+                    "tags": [
+                        "accounting",
+                        "saas"
+                    ]
+                },
+                {
+                    "name": "Rocket Lab",
+                    "description": "Aerospace manufacturer and launch service provider",
+                    "url": "https://www.rocketlabusa.com/",
+                    "tags": [
+                        "aerospace",
+                        "engineering"
+                    ]
+                },
+                {
+                    "name": "Sharesies",
+                    "description": "Investment platform making investing accessible to everyone",
+                    "url": "https://www.sharesies.nz/",
+                    "tags": [
+                        "fintech",
+                        "investment"
+                    ]
+                },
+                {
+                    "name": "Hnry",
+                    "description": "Tax and accounting service for freelancers and contractors",
+                    "url": "https://hnry.co.nz/",
+                    "tags": [
+                        "fintech",
+                        "accounting"
+                    ]
+                },
+                {
+                    "name": "Volpara Health",
+                    "description": "AI software for breast cancer screening",
+                    "url": "https://www.volparahealth.com/",
+                    "tags": [
+                        "healthcare",
+                        "ai"
+                    ]
+                },
+            ]
+        },
+        "open-source": {
+            "name": "Open Source Projects",
+            "description": "Open source projects created in New Zealand or by Kiwi developers",
+            "entries": [
+                {
+                    "name": "Silverstripe CMS",
+                    "description": "Open source CMS and framework built on PHP",
+                    "url": "https://www.silverstripe.org/",
+                    "tags": [
+                        "cms",
+                        "php",
+                        "framework"
+                    ]
+                },
+                {
+                    "name": "NZGOAL",
+                    "description": "Open source licensing framework for government agencies",
+                    "url": "https://www.data.govt.nz/toolkit/policies/nzgoal/",
+                    "tags": [
+                        "government",
+                        "licensing"
+                    ]
+                }
+            ]
+        },
+        "events": {
+            "name": "Events, Conferences, and Meetups",
+            "description": "Tech meetups, conferences, and events in New Zealand",
+            "entries": [
+                {
+                    "name": "Canterbury Tech Summit",
+                    "description": "Annual technology conference in Christchurch",
+                    "url": "https://canterburytech.nz/",
+                    "tags": [
+                        "conference",
+                        "christchurch"
+                    ]
+                },
+                {
+                    "name": "Techweek NZ",
+                    "description": "National festival of innovation and technology events",
+                    "url": "https://techweek.co.nz/",
+                    "tags": [
+                        "festival",
+                        "innovation"
+                    ]
+                }
+            ]
+        },
+        "blogs": {
+            "name": "Blogs and Podcasts",
+            "description": "Tech blogs and podcasts from New Zealand",
+            "entries": [
+                {
+                    "name": "NZ Tech Podcast",
+                    "description": "Weekly podcast discussing technology news from a New Zealand perspective",
+                    "url": "https://nztechpodcast.com/",
+                    "tags": [
+                        "podcast",
+                        "news"
+                    ]
+                },
+                {
+                    "name": "Moxie Sessions",
+                    "description": "Digital economy discussion group with blog",
+                    "url": "http://themoxiesessions.co.nz/",
+                    "tags": [
+                        "blog",
+                        "digital economy"
+                    ]
+                }
+            ]
+        },
+        "education": {
+            "name": "Educational Resources",
+            "description": "Coding bootcamps, courses, and universities in New Zealand",
+            "entries": [
+                {
+                    "name": "Dev Academy",
+                    "description": "Web development bootcamp in Auckland and Wellington",
+                    "url": "https://devacademy.co.nz/",
+                    "tags": [
+                        "bootcamp",
+                        "web development"
+                    ]
+                },
+                {
+                    "name": "Summer of Tech",
+                    "description": "IT internship program connecting students with employers",
+                    "url": "https://www.summeroftech.co.nz/",
+                    "tags": [
+                        "internship",
+                        "students"
+                    ]
+                },
+                {
+                    "name": "Code Club Aotearoa",
+                    "description": "Volunteer-led network of coding clubs for kids",
+                    "url": "https://codeclub.nz/",
+                    "tags": [
+                        "education",
+                        "kids",
+                        "volunteers"
+                    ]
+                }
+            ]
+        },
+        "community": {
+            "name": "Community Resources",
+            "description": "Slack groups, Discord servers, and forums for the NZ tech community",
+            "entries": []
+        },
+        "jobs": {
+            "name": "Tech Jobs",
+            "description": "Job boards and companies hiring in the NZ tech sector",
+            "entries": [
+                {
+                    "name": "Do Good Jobs NZ",
+                    "description": "Job board for purpose-driven organisations in New Zealand",
+                    "url": "https://dogoodjobs.co.nz/",
+                    "tags": [
+                        "job board",
+                        "non-profit"
+                    ]
+                }
+            ]
+        }
+        "volunteering": {
+            "name": "Volunteering Opportunities",
+            "description": "Volunteer opportunities in the tech sector",
+            "entries": []
+        }
+    }
+}
